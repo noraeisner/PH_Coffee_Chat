@@ -1,6 +1,6 @@
 # PH Coffee Chat
 
-![PHCC logo](https://github.com/noraeisner/PH_Coffee_Chat/tree/main/logo/PHCC_logo.png)
+![PHCC logo](https://github.com/noraeisner/PH_Coffee_Chat/blob/main/logo/PHCC_logo.jpeg)
 
 Short tutorial notebooks made to be used alongside the Planet Hunters Coffee Chat videos.
 
@@ -8,4 +8,4 @@ Planet Hunters Coffee chat aims to make exoplanet science more accessible to the
 
 For more information and links to the Colab notebooks please visit our website: www.planethunters.coffee or watch the videos at https://www.youtube.com/planethunterscoffee
 
-![PHCC logo](https://github.com/noraeisner/PH_Coffee_Chat/tree/main/logo/PHCC_logo_empty.png)
+![PHCC logo](https://github.com/noraeisner/PH_Coffee_Chat/blob/main/logo/PHCC_logo_empty.jpeg)
